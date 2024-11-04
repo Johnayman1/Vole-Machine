@@ -9,6 +9,7 @@
 using namespace std;
 
 
+
 class Alu {
 public:
     int hexToDec(const string& hexStr) {
