@@ -7,6 +7,8 @@
 #include <iomanip>
 #include "alu.h"
 
+
+
 using namespace std;
 class Memory {
 private:
